@@ -1,0 +1,9 @@
+.titleBar {
+  background-color: #09548671;
+  display: block;
+  color: #fff;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 4px;
+  left: 100%;
+}
